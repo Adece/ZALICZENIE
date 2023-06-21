@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	
-	
+	// komentarz warty uwagi
   int x, y;
   int sum;
   // Wypisanie liczby nr 1
